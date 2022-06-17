@@ -1,0 +1,51 @@
+{
+  "General": {
+    "DisplayLoliScriptOnLoad": false,
+    "RecommendedBots": true,
+    "StartingWidth": 800,
+    "StartingHeight": 620,
+    "ChangeRunnerInterface": false,
+    "DisableQuitWarning": true,
+    "DisableNotSavedWarning": false,
+    "DefaultAuthor": "t.me/hunght1890",
+    "LiveConfigUpdates": false,
+    "DisableHTMLView": false,
+    "AlwaysOnTop": false,
+    "AutoCreateRunner": false,
+    "PersistDebuggerLog": false,
+    "DisableSyntaxHelper": false,
+    "DisplayCapturesLast": false,
+    "DisableCopyPasteBlocks": false,
+    "EnableLogging": false,
+    "LogToFile": false,
+    "LogBufferSize": 10000,
+    "BackupDB": true,
+    "IgnoreWordlistOnHitDedupe": false
+  },
+  "Sounds": {
+    "EnableSounds": false,
+    "OnHitSound": "",
+    "OnReloadSound": ""
+  },
+  "Sources": {
+    "Sources": []
+  },
+  "Themes": {
+    "BackgroundMain": "#222222",
+    "BackgroundSecondary": "#111111",
+    "ForegroundMain": "#DCDCDC",
+    "ForegroundGood": "#ADFF2F",
+    "ForegroundBad": "#FF6347",
+    "ForegroundCustom": "#FF8C00",
+    "ForegroundRetry": "#FFFF00",
+    "ForegroundToCheck": "#7FFFD4",
+    "ForegroundMenuSelected": "#FF0000",
+    "UseImage": false,
+    "BackgroundImage": "",
+    "BackgroundImageOpacity": 100,
+    "BackgroundLogo": "",
+    "EnableSnow": false,
+    "SnowAmount": 100,
+    "AllowTransparency": false
+  }
+}
